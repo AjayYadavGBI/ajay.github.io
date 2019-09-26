@@ -83,6 +83,14 @@ ML----
 
 1. Supervised Learning......
 	use supervised learning when the output data is known. the algorithm will predict new data . Supervised learning as the name indicates the presence of a supervisor as a teacher. So basically teacher teach to the machine with some data and then machine is provided with a new set of data so that supervised learning algorithm analyses the training data
+Example of Supervised Learning Algorithms:
+	Linear Regression
+	Nearest Neighbor
+	Guassian Naive Bayes
+	Decision Trees
+	Support Vector Machine (SVM)
+	Random Forest
+
 
 2. Unsupervised learning....
 	Un supervised means no teacher is provided that means no training will be given to the machine. Therefore machine is restricted to find the hidden structure in unlabeled data by our-self.....
